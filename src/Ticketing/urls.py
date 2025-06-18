@@ -16,6 +16,10 @@ Including another URLconf
 """
 #Fitia nantenaina
 #tolotra
+<<<<<<< HEAD
+=======
+#Herve
+>>>>>>> 3f9d5f0acb3bc96fcbaac3146cd458b807d4a74b
 
 from django.contrib import admin
 from django.urls import path
