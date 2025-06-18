@@ -14,12 +14,17 @@ Including another URLconf
     1. Import the include() function: from django.urls import include, path
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
+#herve mananintsoa 
 #Fitia nantenaina
 #tolotra
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 #Herve
 >>>>>>> 3f9d5f0acb3bc96fcbaac3146cd458b807d4a74b
+=======
+#dfdfdfdfdfdf
+>>>>>>> 20e241a8053db2f5cb41d4c0d916c4756672b567
 
 from django.contrib import admin
 from django.urls import path
