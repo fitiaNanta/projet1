@@ -15,6 +15,7 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 #Fitia nantenaina
+#tolotra
 
 from django.contrib import admin
 from django.urls import path
